@@ -1,3 +1,5 @@
 data/~$SURVEY RESULTS_2024.xlsx
 +rm -f $DATA_DIR/2024data/~$SURVEY RESULTS_2024.xlsx
 **/.env
+**/test
+**/utils
