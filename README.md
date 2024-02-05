@@ -1,19 +1,22 @@
-# MA4829-AY23-24-S2
+# Nanyang Technological University Machine Intelligence MA4829 #
 
-<div style="text-align:center">
+<br>
+
+<div align='center' style="text-align:center">
 
 ![Sample Image](https://images.scholarschoice.com.sg/wp-content/uploads/2017/06/NTU.png)
 
 </div>
 
 <p align='center' style="font-size: 20px;">
-    Machine Intelligence module from faculty of Mechanical Engineering and Aerospace in Nanyang Technological University
-</p><br>
+    MA4829 Module from school of MAE, NTU <br>
+    AY 2023/24 Semester 2
+</p>
 
-## Environment Setup ##
+## Environment Setup - Conda ##
 
 - Create a virtual environment using the following command
-- cd into parent directory.
+- `cd` into parent directory.
 - Run the following commands in the terminal.
 
     ```
@@ -39,6 +42,11 @@
 - Likelihood of customising a car part given that another car part is customised.
 - More details in the script markdown itself.
 
+### `pca.ipynb` ###
+
+- This file is used to perform PCA on the dataset to reduce the dimensionality of the dataset.
+- Also visualise the variance explained by each principal component.
+
 ## Directory Tree ##
 
     ├── .gitignore
@@ -60,6 +68,6 @@
         └── utils
             └── dir.py
 
-
 ## Contributors ##
+
 1. `Rzi98`
