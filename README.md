@@ -35,6 +35,7 @@
 
 - Visualise distribution of respondents based on their `Age group`, `gender`, `marital_status` and more.
 - Visualise the number of car parts to customise with respect to their budget for customisation
+- Created models `linear regression`, `SVM`, `ANN`
 
 ### `apriori.ipynb` ###
 
