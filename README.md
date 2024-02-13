@@ -29,13 +29,14 @@
 ### `data_cleaning.ipynb` ###
 
 - This file is used to shorten the column names and remove the unnecessary columns from the dataset.
+- Separate numerical and categorical dataset.
 - Also added unique ID to each response.
 
 ### `data_analysis.ipynb` ###
 
 - Visualise distribution of respondents based on their `Age group`, `gender`, `marital_status` and more.
 - Visualise the number of car parts to customise with respect to their budget for customisation
-- Created models `linear regression`, `SVM`, `ANN`
+- Created models `Linear regression`, `Polynomial regression`, `SVR`, `DecisionTree`, `SVM`, `ANN`
 
 ### `apriori.ipynb` ###
 
@@ -46,7 +47,9 @@
 ### `pca.ipynb` ###
 
 - This file is used to perform PCA on the dataset to reduce the dimensionality of the dataset.
+- Utilise MCA to perform PCA on the categorical data.
 - Also visualise the variance explained by each principal component.
+- Unable to retain important features as the variance explained by the first few principal components is very low.
 
 ## Directory Tree ##
 
@@ -72,3 +75,13 @@
 ## Contributors ##
 
 1. `Rzi98`
+
+2. `Brian1707`
+
+3. `junwei999`
+
+4. `nadiahouti`
+
+5. `ViSV29`
+
+6. Arun
