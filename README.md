@@ -51,15 +51,21 @@
 - Also visualise the variance explained by each principal component.
 - Unable to retain important features as the variance explained by the first few principal components is very low.
 
+### `experiment.ipynb` ###
+
+- Experimented on Random Forest for multiple categorical data and simple scatter plot on budget and parts to customise
+
 ## Directory Tree ##
 
     ├── .gitignore
     ├── data
     │   ├── cleaned_data.csv
     │   ├── cleaned_data.xlsx
+    │   ├── numerical_data.csv
     │   └── SURVEY RESULTS_2024.xlsx
     ├── docs
-    │   └── MA4829 Group Assignment_S2 23_24.pdf
+    │   ├── MA4829 Group Assignment_S2 23_24.pdf
+    │   └── Sample report.docx
     ├── images
     │   └── NTU.png
     ├── README.md
@@ -68,7 +74,10 @@
         ├── apriori.ipynb
         ├── data_analysis.ipynb
         ├── data_cleaning.ipynb
+        ├── experiment.ipynb
         ├── pca.ipynb
+        ├── test
+        │   └── PCA.py
         └── utils
             └── dir.py
 
@@ -84,4 +93,4 @@
 
 5. `ViSV29`
 
-6. Arun
+6. `TheVine1`
