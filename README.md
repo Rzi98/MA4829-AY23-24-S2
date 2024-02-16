@@ -63,6 +63,19 @@
 
 - Hierarchical clustering on the data to perform analysis.
 
+## Sample Visualisations ##
+
+### <u>Distribution</u> ###
+![ditribution](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/319465ad-5783-4218-b3f0-da3f6d6d0501)
+
+### <u>Polynomial Regression</u> ###
+![polynomial](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/599e3b9e-7504-48de-b184-d4b5fbfb10ec)
+
+### <u>SVR</u> ###
+![svr](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/2d28b9a7-2702-46cf-8f68-f6eda223a389)
+
+
+
 ## Directory Tree ##
 
     ├── .gitignore
@@ -74,9 +87,12 @@
     │   └── SURVEY RESULTS_2024.xlsx
     ├── docs
     │   ├── MA4829 Group Assignment_S2 23_24.pdf
-    │   └── Sample report.docx
+    │   └── Report_analysis.docx
     ├── images
-    │   └── NTU.png
+    │   ├── ditribution.png
+    │   ├── NTU.png
+    │   ├── polynomial.png
+    │   └── svr.png
     ├── README.md
     ├── requirements.txt
     └── src
@@ -86,6 +102,8 @@
         ├── data_cleaning.ipynb
         ├── experiment.ipynb
         ├── pca.ipynb
+        ├── test
+        │   └── PCA.py
         ├── utils
         │   └── dir.py
         └── visualisation.ipynb
