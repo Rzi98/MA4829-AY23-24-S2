@@ -55,12 +55,21 @@
 
 - Experimented on Random Forest for multiple categorical data and simple scatter plot on budget and parts to customise
 
+### `visualisation.ipynb` ###
+
+- Count plot of the budget groups and CAD experience
+
+### `clustering.ipynb` ###
+
+- Hierarchical clustering on the data to perform analysis.
+
 ## Directory Tree ##
 
     ├── .gitignore
     ├── data
     │   ├── cleaned_data.csv
     │   ├── cleaned_data.xlsx
+    │   ├── data.csv
     │   ├── numerical_data.csv
     │   └── SURVEY RESULTS_2024.xlsx
     ├── docs
@@ -72,14 +81,14 @@
     ├── requirements.txt
     └── src
         ├── apriori.ipynb
+        ├── clustering.ipynb
         ├── data_analysis.ipynb
         ├── data_cleaning.ipynb
         ├── experiment.ipynb
         ├── pca.ipynb
-        ├── test
-        │   └── PCA.py
-        └── utils
-            └── dir.py
+        ├── utils
+        │   └── dir.py
+        └── visualisation.ipynb
 
 ## Contributors ##
 
