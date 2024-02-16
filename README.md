@@ -63,7 +63,7 @@
 
 - Hierarchical clustering on the data to perform analysis.
 
-## Sample Visualisations ##
+## Sample Visualisations and Machine Learning Models ##
 
 ### <u>Distribution</u> ###
 ![ditribution](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/319465ad-5783-4218-b3f0-da3f6d6d0501)
@@ -74,7 +74,8 @@
 ### <u>SVR</u> ###
 ![svr](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/2d28b9a7-2702-46cf-8f68-f6eda223a389)
 
-
+### <u>Apriori</u> ###
+![apriori](https://github.com/Rzi98/MA4829-AY23-24-S2/assets/84122776/e9fa9e5d-97eb-4a81-992e-8c02a554fd47)
 
 ## Directory Tree ##
 
@@ -89,6 +90,7 @@
     │   ├── MA4829 Group Assignment_S2 23_24.pdf
     │   └── Report_analysis.docx
     ├── images
+    │   ├── apriori.png
     │   ├── ditribution.png
     │   ├── NTU.png
     │   ├── polynomial.png
@@ -107,6 +109,7 @@
         ├── utils
         │   └── dir.py
         └── visualisation.ipynb
+        
 
 ## Contributors ##
 
